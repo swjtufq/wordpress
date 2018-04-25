@@ -1,0 +1,56 @@
+ purchase */
+.combination_box .name:hover{
+        background-color: #fff;
+    border-color: #fff #fff #fff;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: none;
+    color: #0066cc;
+    font-size: 16px;
+}
+.combination_box .pc_sj{
+
+}
+.row .pc > p >span{
+    float: left;
+    padding: 20px
+}
+.combination_box > .pc{
+    background-color: #fff;
+    border-color: #fff #fff #fff;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: none;
+    color: #0066cc;
+    font-size: 16px;
+    width: 120%
+}
+.combination_box > .pc{
+    padding: 0px;
+    
+}
+.combination_box > .pc > .name{
+    margin-top: 5%;
+    width: 110%;
+    margin-left: -5%
+}
+.buy_pcs .pro_buy .container .pro .combination_box{
+    width: 100%;
+    background-color: #d0e7fe;
+    overflow: hidden;
+    padding: 0px;
+    position: relative;
+    min-height: 50px;
+}
+.combination_box .pc .name{
+    margin-top: 8%;
+    text-align: center;
+
+}
+.buy_pcs .pro_buy .container .pro .pro_box .desc_box{
+    padding: 0px
+}
+#pc_name_1{
+    margin-left: 20%;
+    
+}

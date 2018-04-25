@@ -1,0 +1,38 @@
+.desc_box{
+	text-align: center;
+	margin-top: 50px
+}
+.desc_box .name{
+	font-size: 20px;
+	font-weight: 300;
+}
+.desc{
+	margin-top: -120px;
+	margin-left: 320px;
+}
+.pic{
+	margin-left: -150px;
+}
+.btn_l{
+    float: left;
+    position: relative;
+    border: 1px solid #3a98f6;
+}
+.btn-r{
+	    float: left;
+    position: relative;
+}
+.actions .cheng{
+	border: 1px solid #f7e02d;
+	    margin-left: 170px;
+    margin-top: -45px;
+}
+.actions a{
+	font-size: 20px;
+    width: 170px;
+    text-align: center;
+    display: block;
+    padding: 8px 0;
+    border-radius: 4px;
+    text-decoration: none;
+}

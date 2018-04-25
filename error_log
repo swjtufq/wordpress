@@ -1,0 +1,81 @@
+[03-Oct-2017 03:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_description() in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php:40
+Stack trace:
+#0 /home/fucosoft/public_html/wp-content/themes/fucosoft/single.php(12): include()
+#1 /home/fucosoft/public_html/wp-includes/template-loader.php(74): include('/home/fucosoft/...')
+#2 /home/fucosoft/public_html/wp-blog-header.php(19): require_once('/home/fucosoft/...')
+#3 /home/fucosoft/public_html/index.php(17): require('/home/fucosoft/...')
+#4 {main}
+  thrown in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 40
+[03-Oct-2017 03:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_description() in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php:40
+Stack trace:
+#0 /home/fucosoft/public_html/wp-content/themes/fucosoft/single.php(12): include()
+#1 /home/fucosoft/public_html/wp-includes/template-loader.php(74): include('/home/fucosoft/...')
+#2 /home/fucosoft/public_html/wp-blog-header.php(19): require_once('/home/fucosoft/...')
+#3 /home/fucosoft/public_html/index.php(17): require('/home/fucosoft/...')
+#4 {main}
+  thrown in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 40
+[03-Oct-2017 03:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_description() in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php:7
+Stack trace:
+#0 /home/fucosoft/public_html/wp-content/themes/fucosoft/single.php(8): include()
+#1 /home/fucosoft/public_html/wp-includes/template-loader.php(74): include('/home/fucosoft/...')
+#2 /home/fucosoft/public_html/wp-blog-header.php(19): require_once('/home/fucosoft/...')
+#3 /home/fucosoft/public_html/index.php(17): require('/home/fucosoft/...')
+#4 {main}
+  thrown in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php on line 7
+[04-Oct-2017 14:05:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 59
+[05-Oct-2017 02:47:09 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 62
+[05-Oct-2017 02:47:14 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 62
+[05-Oct-2017 02:47:21 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 62
+[05-Oct-2017 02:47:26 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 62
+[05-Oct-2017 02:47:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 65
+[05-Oct-2017 02:47:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 65
+[05-Oct-2017 02:48:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 65
+[05-Oct-2017 02:49:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 67
+[05-Oct-2017 02:49:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 67
+[05-Oct-2017 02:49:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 67
+[05-Oct-2017 02:50:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 67
+[05-Oct-2017 02:53:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 67
+[05-Oct-2017 02:57:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 02:57:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:00:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:00:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:00:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:07:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:07:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:07:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:07:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:07:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:09:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 69
+[05-Oct-2017 03:09:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 69
+[05-Oct-2017 03:09:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 69
+[05-Oct-2017 03:10:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 69
+[05-Oct-2017 03:12:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:14:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 03:42:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 68
+[05-Oct-2017 04:04:51 UTC] PHP Parse error:  syntax error, unexpected '">User Guides</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 81
+[05-Oct-2017 04:05:07 UTC] PHP Parse error:  syntax error, unexpected '">User Guides</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 81
+[05-Oct-2017 04:05:38 UTC] PHP Parse error:  syntax error, unexpected '">User Guides</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 81
+[05-Oct-2017 04:08:59 UTC] PHP Parse error:  syntax error, unexpected '">User Guides</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 81
+[05-Oct-2017 04:09:13 UTC] PHP Parse error:  syntax error, unexpected '">User Guides</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-guide.php on line 81
+[07-Oct-2017 07:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_post_type() in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php:51
+Stack trace:
+#0 /home/fucosoft/public_html/wp-content/themes/fucosoft/single.php(8): include()
+#1 /home/fucosoft/public_html/wp-includes/template-loader.php(74): include('/home/fucosoft/...')
+#2 /home/fucosoft/public_html/wp-blog-header.php(19): require_once('/home/fucosoft/...')
+#3 /home/fucosoft/public_html/index.php(17): require('/home/fucosoft/...')
+#4 {main}
+  thrown in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php on line 51
+[07-Oct-2017 07:20:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php on line 51
+[07-Oct-2017 07:26:25 UTC] PHP Parse error:  syntax error, unexpected '$category' (T_VARIABLE) in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php on line 51
+[11-Oct-2017 13:25:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php on line 122
+[14-Oct-2017 14:14:49 UTC] PHP Parse error:  syntax error, unexpected '，' (T_STRING), expecting ')' in /home/fucosoft/public_html/wp-content/themes/fucosoft/resource.php on line 64
+[14-Oct-2017 14:14:57 UTC] PHP Parse error:  syntax error, unexpected '，' (T_STRING), expecting ')' in /home/fucosoft/public_html/wp-content/themes/fucosoft/resource.php on line 64
+[19-Oct-2017 14:04:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php on line 115
+[19-Oct-2017 14:05:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fucosoft/public_html/wp-content/themes/fucosoft/single-support.php on line 115
+[30-Oct-2017 12:48:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/category.php on line 1
+[30-Oct-2017 12:49:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/category.php on line 1
+[30-Oct-2017 12:49:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/category.php on line 1
+[30-Oct-2017 12:49:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/category.php on line 1
+[30-Oct-2017 12:49:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/category.php on line 1
+[30-Oct-2017 12:53:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fucosoft/public_html/wp-content/themes/fucosoft/category.php on line 1
+[24-Apr-2018 08:19:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32888984 bytes) in /home/fucosoft/public_html/wp-includes/class-requests.php on line 752

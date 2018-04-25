@@ -1,0 +1,409 @@
+.index .banner {
+  background: url(../images/bannerbg.png);
+  box-shadow: 0 1px 1px 0 #ccc;
+  position: relative;
+}
+.index .banner .content{
+	position: relative;
+	width: 1080px;
+}
+.clear{
+  clear: both;
+}
+.index .banner .caption {
+  color: #fff;
+  display: block;
+  height: auto;
+  padding: 12px;
+  position: absolute;
+  left: 0;
+  top: 90px;
+  width: 500px;
+}
+.index .banner .caption .fp{
+  width: 119px;
+  padding-left: 8px;
+  font-size: 24px;
+  background-color: #000000;
+} 
+.index .banner .caption .fp .boxfp{
+  width: 300px;
+  height: auto;
+}
+
+.index .banner .caption .boxfp .fp_border{
+  background-color: #000000;
+  height: 38px;
+  display: inline-block;
+  width: 8px;
+  float: left;
+}
+.index .banner .caption .boxfp .fp_title{
+  color: #000000;
+  width: 460px;
+  float: right;
+  font-size: 36px;
+  font-weight: bold;
+}
+.index .banner .caption .fp_small {
+  padding-top: 5px;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
+.index .banner .caption p{
+	position: relative;	
+}
+.index .banner .caption .name {
+  font-size: 36px;
+  line-height: 38px;
+}
+
+.index .banner .caption .more a{
+  display:table;
+  border:2px solid #000000;
+   color: #000;
+   font-size: 16px;
+   text-align: center;
+   font-weight: 600;
+   padding: 10px 30px; 
+   margin-top: 38px;
+}
+
+.index .banner .caption .more a:hover{
+   background-color: #000;
+   color: #fff;
+   text-decoration: none;
+}
+.index .carousel{
+	height: 100%;
+}
+.index .carousel .item {
+  height: 100%;
+}
+.index .carousel-indicators {
+  bottom: -45px;
+}
+.index .carousel-indicators li {
+  border: 1px solid #000;
+  margin:4px 5px;
+}
+.index .carousel-indicators .active {
+  background-color: #000;
+  width:16px;
+  height: 16px;
+  margin: 2px;
+}
+
+.index .upgrade {
+  margin-top: 60px;
+}
+.index .upgrade h2,.index .customer .title,.index .Fucosoft .title,.index .media .title,.index .latest .title{
+  color: #231815;
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.index .upgrade .thumbnail {
+  border: none;
+  height: 339px;
+}
+.index .upgrade .thumbnail .img {
+ 	text-align: center;
+    position: relative;
+}
+.index .upgrade .thumbnail .img img{
+	max-width: 100%;
+}
+.index .upgrade .thumbnail .img > span {
+  background-color: #ed4a35;
+  border-radius: 50%;
+  box-shadow: none;
+  color: #fff;
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  height: 26px;
+  line-height: 26px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 26px;
+}
+.index .upgrade .thumbnail .caption{
+	background-color: #c5dff9;
+    text-align: left;
+    padding: 25px 10px 25px 10px;
+}
+.index .upgrade .thumbnail .caption a {
+  	color: #333333;
+    font-size: 24px;
+}
+.index .upgrade .thumbnail .caption a > strong{
+	color: #333333;
+    display: block;
+    font-size: 24px;
+    margin: 0 auto;
+}
+.index .upgrade .thumbnail .caption a > span{
+	font-size: 14px;
+    color: #666666;
+    margin: 10px 0 0 0;
+}
+.index .upgrade .thumbnail a.more-btn:hover,.index .upgrade .thumbnail .caption a:hover{
+	opacity: 1;
+	text-decoration: none;	
+	color: #231815;
+}
+.index .upgrade .thumbnail .caption a:hover,
+.index .upgrade .thumbnail .caption a:hover strong,
+.index .upgrade .thumbnail .caption a:hover span {
+	color: #0066cb;
+}
+.index .upgrade .thumbnail .bottom{
+	margin-top: 12px;
+	text-align: center;
+}
+
+.index .latest {
+	margin-top: 70px;
+}
+.index .latest .most-view {
+    background-color: #c5dff9;
+	padding:30px 0;
+}
+.index .latest .most-view > .row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.index .latest .latest-article {
+   background-color: #f6f6f6;
+    padding: 30px 0;
+    height: 551px;
+}
+.index .latest .thumbnail {
+    border: none;
+    padding: 5px;
+    height: 190px;
+    overflow: hidden;
+    background-color: #fff;
+    position: relative;
+}
+.index .latest .thumbnail a {
+  display: block;
+  padding: 0;
+  height: 180px;
+  overflow: hidden;
+}
+.index .latest .thumbnail img {
+  max-width: 100%;
+}
+.index .latest .thumbnail .caption {
+  background: rgba(0,0,0,0.5);
+    left: 32px;
+    bottom: 20px;
+    color: #fff;
+    width: 248px;
+    text-align: left;
+    height: 62px;
+    position: absolute;
+    border-radius: 6px;
+    line-height: 62px;
+    margin: 0;
+    padding: 0 10px;
+}
+.index .latest .thumbnail .caption span{
+	    display: inline-table;
+    line-height: 22px;
+    vertical-align: middle;
+    font-size: 16px;
+}
+.index .latest .thumbnail:hover {
+	background-color: #0066cb;
+}
+.index .latest ul {
+   padding: 10px 30px 0 30px;
+}
+.index .latest ul li {
+  background-image: url("../img/icon-list.png");
+    background-position: left 7px;
+    background-repeat: no-repeat;
+    list-style: none;
+    margin-bottom: 25px;
+    padding-left: 24px;
+}
+.index .latest ul li:last-child {
+	margin:0;
+}
+.index .latest ul li a {
+  color: #3e3a39;
+    font-size: 16px;
+    line-height: 25px;
+    display: block;
+}
+.index .latest ul li a:hover {
+	color: #0066cc;
+	text-decoration: none;	
+}
+
+.index .customer {
+  margin-bottom: 50px;
+  margin-top: 60px;
+}
+.index .customer ul{padding:0 20px;height: 92px;}
+.index .customer .active {
+  background-image:url("../img/icon-customer.png");
+  background-position:center top;
+  background-repeat: no-repeat;
+}
+.index .customer .box-header {
+	text-align: center;	
+}
+.index .customer .box-content li {
+  background-color: #c5dff9;
+  border-radius: 9px;
+  display: none;
+  font-size: 15px;
+  list-style: outside none none;
+  padding: 20px;
+  text-align: center;
+  color: #3e3a39;
+}
+.index .customer .box-content li.active {
+  display: block;
+}
+.index .customer .box-content li > p{
+}
+.index .customer .box-content li > span {
+  font-weight: 600;
+}
+.index .customer .img {
+  cursor: pointer;
+  padding-top: 60px;
+}
+
+.index .Fucosoft {
+  background-color: #fff;
+  border: 10px solid #c5dff9;
+  float: left;
+  padding: 0 0 20px;
+  text-align: center;
+  width: 361px;
+}
+.index .Fucosoft p {
+  font-size: 20px;
+  line-height: 31px;
+  margin: 0;
+  padding: 0 20px 10px;
+}
+.index .Fucosoft .title {
+  margin: 20px 0 0;
+}
+.index .Fucosoft .border {
+  background-color: #0066cb;
+  display: block;
+  height: 5px;
+  margin: 0 auto 10px;
+  text-indent: -9999px;
+  width: 29px;
+}
+.index .Fucosoft .more {
+  color: #0066cb;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+}
+.index .Fucosoft a.more:hover{
+	text-decoration: none;	
+    opacity: 0.8;
+    color: #231815
+}
+
+.index .media {
+  background-color: #c5dff9;
+  border-radius: 10px;
+  float: right;
+  margin-bottom: 50px;
+  padding: 30px 10px 15px 15px;
+  text-align: center;
+  width: 600px;
+}
+.index .media .content{display:table;}
+.index .media .box {
+  background-color: #fff;
+  float: left;
+  height: 156px;
+  line-height: 156px;
+  margin: 5px;
+  width: 180px;
+  display: block;
+}
+.index .media .box .hover{
+	display: none;
+}
+@media screen and (max-width: 991px) {
+	.carousel-inner>.item>img{height:100% ;max-width: none;}
+	.index .Fucosoft {
+	    float: none;
+	}
+	.index .media {
+	    float: none;
+	    margin-top: 20px;
+	}
+	.index .customer ul {
+	    padding: 0 20px;
+	    height: auto;
+	}
+}
+@media screen and (max-width: 767px) {
+	.index .box-header{position: relative;}
+	.index .upgrade .thumbnail {height: auto;}
+	 .index .customer .left,.index .customer .right{
+	    background-image: url("../img/icon-caret-left.png");
+	 	background-repeat: no-repeat;
+	    cursor: pointer;
+	    display: block;
+	    height: 40px;
+	    position: absolute;
+	    top: 48%;
+	    width: 20px;
+	}
+	.index .customer .left {left: 30px;}
+	.index .customer .right {
+    background-image: url("../img/icon-caret-right.png");
+	background-repeat: no-repeat;
+    right: 30px;
+	}
+	.index .customer .col-md-3{display: none;	}
+	.index .customer{text-align: center;}
+	.index .customer .col-md-3.active{display:block;}
+	.index .Fucosoft{margin: 0 auto 20px auto;float: none;}
+	.index .media{float: none;width: auto;}
+	.index .media .content {display: block;}
+	.index .media .box {float: none;height: auto;line-height: auto;margin: 10px auto;width: 100%;}
+}
+@media screen and (max-width: 500px){
+  .index .banner .caption{
+      width: 100%;
+  }
+  .index .banner .caption .boxfp .fp_title{
+      width: 95%;
+  }
+}
+@media screen and (max-width: 362px){
+	.index .Fucosoft{width: auto;}
+}
+@media screen and (max-width: 330px){
+    .index .banner .caption{width:auto;}
+    .hd .nav{height:53px;}
+    .hd .nav ul li.toggle .subnav{top:33px;}
+    .hd .nav ul li .subnav{top:53px;}
+    .index .banner .caption .boxfp .fp_title{
+      font-size: 33px;
+      line-height: 40px;
+      margin-top: 4px;
+    }
+    .index .banner .caption .boxfp .fp_border{
+      height: 35px;
+    }
+} 

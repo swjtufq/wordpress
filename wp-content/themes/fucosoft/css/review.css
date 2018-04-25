@@ -1,0 +1,60 @@
+/* 产品结论样式开始 */
+.bd_title{
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+#bd_comments > title{
+  /*margin-top: -50px;*/
+  margin-left: 100px;
+  width: 348px;
+
+}
+.title{
+  /*margin-top: -100px;*/
+  margin-left: 505px;
+  width: 352px
+}
+input{
+  float: left;
+}
+#comment{
+  margin-left: -355px;
+  margin-top: 30px;
+  width: 352px;
+  height: 50px;
+}
+.first_name{
+  margin-top: 85px;
+  margin-left: -350px;
+}
+.last_name{
+  margin-top: 85px;
+  margin-left: -172px;
+}
+.email{
+  margin-top: 115px;
+  margin-left: -355px;
+  width: 354px;
+}
+.about{
+  margin-top: 60px;
+  margin-left: 500px;
+}
+.code{
+  margin-left: 500px;
+  margin-top: -10px
+}
+#inputCode{
+  margin-left: -150px;
+}
+/* 样式结束 */
+
+
+/* review */
+.content{
+  margin-left: 0%
+}
+.title{
+  margin-left: 0%
+}

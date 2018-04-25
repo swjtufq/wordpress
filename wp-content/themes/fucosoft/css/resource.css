@@ -1,0 +1,22 @@
+.paging .bb{
+	padding: 1px 20px;
+    font-size: 14px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 100px;
+    background: #0960b0;
+    color: #fff;
+    cursor: pointer;
+}
+.paging a.curr {
+    color: #00a2ea;
+    background: none !important;
+    border-bottom: solid 2px #00a2ea;
+}
+.paging a {
+    padding: 3px 1px;
+    margin: 0 5px;
+    text-decoration: none;
+    color: #444;
+    font-size: 14px;
+}

@@ -1,0 +1,245 @@
+* {
+                margin: 0px;
+                padding: 0px;
+            }
+            
+            #nav {
+                margin-left: 50%;
+                background-color: #fff;
+                /*height: 40px;*/
+                border-radius: 10px;
+                position: relative;
+                /*margin: 0px auto;*/
+                top: 0px;
+            }
+            
+            .nav-container {
+                width: 1335px;
+                height: 40px;
+                margin-top: 20px;
+                position: absolute;
+            }
+            
+            .dht {
+                float: left;
+                text-align: center;
+                color: #337ab7 ! important;
+                height: 40px;
+                width: 20%;
+                font-size: 14px ! important;
+                line-height: 40px;
+                text-decoration:none;
+
+            }
+            
+            .dht a:hover {
+                background-color: #fff;
+                color: blue ! important;
+                cursor: pointer;
+                text-decoration:none;
+            }
+            
+            .cd {
+                list-style: none;
+                /*display: none;*/
+                background-color: #fff;
+                overflow: hidden;
+                text-decoration:none;
+                /*模拟height:auto时候的情况*/                
+                max-height: 0px;
+                transition: max-height 0.3s;
+                /*多浏览器支持*/
+                -moz-transition: height 1s;
+                -webkit-transition: height 1s;
+                -o-transition: height 1s;
+            }
+            
+            .dht:hover .cd {
+                display: block;
+                text-decoration:none;
+                width: 100%;
+                max-height: 160px;
+            }
+
+            .cd{
+                text-align: left;
+                /*margin-left: 30%;*/
+
+            }
+            
+            .cd_1 {
+                overflow: hidden;
+                margin-left: 15%;
+                color: #337ab7;
+            }
+            
+            #cd_1:hover {
+                background-color: #fff;
+                color: #23527c
+            }
+
+            
+            
+                
+            /*.icon-caret-down{
+                background-image: url("../Images/icon-caret-down.png");
+                background-repeat: no-repeat;
+                display: inline-block;
+                height: 8px;
+                margin: 0 0 0 6px;
+                width: 15px;
+            }*/
+
+
+
+
+            .nav-button-1 {
+                 margin-left: 60px;
+            }
+
+            .nav-button-1 icon-search {
+                background: url(../Images/search.png) no-repeat center;
+                /*cursor: pointer;*/
+                /*display: inline-block;*/
+                /*vertical-align: middle;*/
+                /*display: block;*/
+                /*margin-top: 76px;*/
+                /*padding: 17px;*/
+                
+            }
+            .nav-button-1 input{
+                width: 70px ! important;
+                height: 10px ! important;
+            }
+            
+
+                        /* 结尾样式 */
+            .col-md-3 .title{
+               
+                /*float: left;*/
+            }
+            .product > span{
+                text-align: center;
+                margin-left: 10px;
+                /*margin-top: 25px;*/
+                float: left;
+                font-size: 10px;
+                width: 100%;
+            }
+            .company > span{
+                text-align: center;
+                margin-left: 10px;
+                /*margin-top: 25px;*/
+                float: left;
+                font-size: 10px;
+                width: 100%;
+            }
+            .connect{
+                margin-left: 25%;
+            }
+           
+           .container .content div{
+                float: left;
+                padding: 50px
+           }
+
+
+
+            /* 操作流程样式 */
+            .container > .media > .title{
+                font-size: 30px;
+                font-weight: 400;
+                text-align: center;
+                margin-top: 100px
+            }
+            .content > img{
+                /*margin-top: 30px;*/
+                margin-left: 20px;
+                padding: 50px;
+            }
+            .content{
+                margin-left: 15%;
+            }
+
+            #nav-button-4{
+                margin-right: -55px;
+            }
+
+            .top_one{
+                background-image: url(../Images/icon.png);
+               
+                background-repeat: no-repeat;
+               background-position: 0 0;
+                cursor: pointer;
+                height: 60px;
+                position: fixed;
+                right: 1%;
+                text-indent: -9999px;
+                width: 60px;
+                z-index: 999;
+            }   
+            
+            /* 更换头像样式 */
+            .fp_title_1{
+                color: #0066cc;
+    width: 460px;
+    float: right;
+    /* font-size: 36px; */
+    font-weight: bold;
+            }
+
+            #caption{
+                margin-top:-10%;
+                margin-left: 32%
+            }
+
+            #prev{
+                background-image: url('../Images/prev.png');
+                width: 50px;
+                height: 50px;
+                display: block;
+                margin-top: -15%;
+                margin-left:10%;
+                
+            }
+            #next{
+                background-image: url('../Images/next.png');
+                float: left;
+                width: 50px;
+                height: 50px;
+                display: block;
+                margin-left: 80%;
+                margin-top:-3%;
+            }
+
+            /* product内的小商标样式 */
+            .Image_1{
+                margin-left: -65%
+            }
+             
+        
+            .Image_2{
+                margin-left: 65%;
+                margin-top: -31%;
+                float: left;
+            }
+
+
+
+
+/* user_guides */
+/*#my-nav ul > li > a:hover{
+    background-color: #fff;
+}*/
+
+/* product_ir */
+#cz > div{
+   
+    float: left;
+    padding: 20px
+}
+.jiantou{
+    margin-top: 5%
+}
+
+/*
