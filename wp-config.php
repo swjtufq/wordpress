@@ -23,10 +23,10 @@
 define('DB_NAME', 'fucosoft_wp1');
 
 /** MySQL database username */
-define('DB_USER', 'fucosoft_wp1');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'P(0dDKRQG24Vp@mtzE.74#^2');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
